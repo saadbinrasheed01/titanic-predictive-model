@@ -1,0 +1,20 @@
+titanic-eda/
+├─ data/
+│  ├─ train.csv
+│  └─ train_cleaned.csv
+├─ notebooks/
+│  └─ 01_titanic_eda.ipynb
+├─ reports/
+│  ├─ figures/
+│  │  ├─ 01_missingness_heatmap.png
+│  │  ├─ 02_univariate_age_fare.png
+│  │  ├─ 03_univariate_counts.png
+│  │  ├─ 04_survival_by_sex.png
+│  │  ├─ 05_survival_by_pclass.png
+│  │  ├─ 06_survival_by_embarked.png
+│  │  ├─ 07_survival_by_isalone.png
+│  │  ├─ 08_survival_by_agebin.png
+│  │  ├─ 09_violin_age_box_fare.png
+│  │  └─ 11_correlation_heatmap.png
+│  └─ insights.md (optional)
+└─
